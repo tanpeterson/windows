@@ -31,6 +31,10 @@ function gwa {
     code .
 }
 
+function bare($link, $name) {
+  git clone --bare $link $name
+}
+
 function grb {
   git pull --rebase origin master
 }
