@@ -5,3 +5,10 @@ code --install-extension albert.TabOut --force
 code --install-extension meganrogge.template-string-converter --force
 code --install-extension vscodevim.vim --force
 code --install-extension esbenp.prettier-vscode --force
+code --install-extension rangav.vscode-thunder-client --force
+code --install-extension yzhang.markdown-all-in-one --force
+code --install-extension github.vscode-pull-request-github --force
+code --install-extension eamodio.gitlens-insiders --force
+code --install-extension formulahendry.auto-rename-tag --force
+code --install-extension naumovs.color-highlight --force
+code --install-extension aaron-bond.better-comments --force
