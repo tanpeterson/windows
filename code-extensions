@@ -1,0 +1,7 @@
+code --install-extension dsznajder.es7-react-js-snippets --force
+code --install-extension dbaeumer.vscode-eslint --force
+code --install-extension zhuangtongfa.Material-theme --force
+code --install-extension albert.TabOut --force
+code --install-extension meganrogge.template-string-converter --force
+code --install-extension vscodevim.vim --force
+code --install-extension esbenp.prettier-vscode --force
